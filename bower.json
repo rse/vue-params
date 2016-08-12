@@ -1,0 +1,21 @@
+{
+    "name":        "vue-params",
+    "version":     "0.9.0",
+    "description": "Vue plugin for global parameters triggering data-binding updates",
+    "main": "vue-params.js",
+    "homepage": "https://github.com/rse/vue-params",
+    "license": "MIT",
+    "authors": [
+        "Ralf S. Engelschall <rse@engelschall.com>"
+    ],
+    "keywords": [
+        "vue", "plugin", "params", "parameter"
+    ],
+    "dependencies": {
+        "vue": "latest"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules"
+    ]
+}
