@@ -57,7 +57,7 @@
                 return _init.apply(this, arguments)
             }
             Vue.prototype._destroy = function () {
-                paramWatcher = paramWatcher.filter((watcher) => watcher !== this)
+                paramWatcher = paramWatcher.filter(function (watcher) { return watcher !== this })
                 return _destroy.apply(this, arguments)
             }
 
