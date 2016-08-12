@@ -1,6 +1,6 @@
 {
     "name":        "vue-params",
-    "version":     "0.9.0",
+    "version":     "0.9.1",
     "description": "Vue plugin for global parameters triggering data-binding updates",
     "main": "vue-params.js",
     "homepage": "https://github.com/rse/vue-params",
