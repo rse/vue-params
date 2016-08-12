@@ -77,7 +77,7 @@
                         set: function (val) {
                             if (paramValue[name] !== val) {
                                 paramValue[name] = val
-                                paramWatcher.forEach((vue) => {
+                                paramWatcher.forEach(function (vue) {
                                     vue.$forceUpdate()
                                 })
                             }
