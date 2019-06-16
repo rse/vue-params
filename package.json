@@ -23,7 +23,7 @@
         "vue":  "*"
     },
     "scripts": {
-        "prepublish": "jshint vue-params.js"
+        "prepublishOnly": "jshint vue-params.js"
     },
     "main": "vue-params.js"
 }
