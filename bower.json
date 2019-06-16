@@ -6,7 +6,7 @@
     "homepage": "https://github.com/rse/vue-params",
     "license": "MIT",
     "authors": [
-        "Ralf S. Engelschall <rse@engelschall.com>"
+        "Dr. Ralf S. Engelschall <rse@engelschall.com>"
     ],
     "keywords": [
         "vue", "plugin", "params", "parameter"
